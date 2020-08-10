@@ -1,2 +1,2 @@
 # node-mysql
-A convenient and quick DB operation tool
+A convenient and quick DB operation tool for nodejs
